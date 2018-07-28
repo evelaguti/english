@@ -100,5 +100,72 @@ Use commas to separate elements, or to introduce an idea after a conjunction.
 - Identify the ideas you will develop in each section.
 - Close the text.
 
+>### Netiquette
 
+#### What is netiquette and why is it important?
 
+```Netiquette``` can be understood as a accepted online behavior. In a similar way, online ethics is defined as the correct use of assets in a online social setting. These two terms are constantly interchanged and used in a number of contexts to refer to the appropriate and responsible ways of behaving within an online social environment.
+
+Understanding and applying the importance of netiquette is:
+Understanding that the online world is not a separate environment, but rather an extension of our face-to-face social context.
+
+Keeping in mind that in this extension of the social environment the same values and social rules we are used to continue to apply. Every time you do something online ask yourself if that may offend or in anyway transgress the accepted behavior.
+Knowing that as in the real world, breaking these rules can be taken as a felony and it can make people face judicial consequences.
+
+Recognizing that we need to keep in mind how cultural differences can affect the way in which we communicate with each other.
+Respecting privacy and maintaining transparency.
+
+With this in mind, it is very important that as members of online communities we acknowledge the need of respecting rules, values and basic behavior patterns.
+
+>### Tips for writing emails
+
+- Use a powerful greeting, address to ms`s, mister or name.
+- Keep your subject line short and clear.
+- Be respectful and keep in mind netiquette.
+- Use a call to action.
+- Keep in mind the cultural.
+- Read sample emails from the countries you’re trying to contact people from.
+
+>##### Example
+```
+Subject: Marketing Online
+
+Dear Paula,
+
+I´m writing to you because we could make some better adjustments to the final course to make it better just with the use of some extra material that could provide a better user expirience for all the students, it’s urgent.
+
+Greetings / Regards
+
+Edgardo Velásquez Gutiérrez
+Student
+TLIMAKI
+Phone number 5523202851
+S/N
+```
+
+>### Tips for writing resumes
+- Create a professional email address and update contact information.
+- Skills and experience.
+- Use bold, caps and italics strategically.
+- Use subheadings.
+- Education.
+  
+>### Tips for writing business proposals
+- Understand the customer.
+- Lay the groundwork.
+- Focus on the 'how'.
+- Don´t over-promise.
+- Identify decision makers.
+- Be confident.
+- Be fair in pricing.
+- Don´t forget about design and style
+- Remember to proofread.
+  
+>### What goes in a business proposal
+- What you can do for client?
+- How you will do it?
+- How much it will cost them?
+
+>### Pricing is something defined by you
+- Be fair and put yourself in their shoes
+- Extra tip: include and cover letter for your business proposal.
